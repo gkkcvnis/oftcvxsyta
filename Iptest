@@ -1,65 +1,67 @@
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",61.Discovery
-http://84.22.33.210:8000/DiscoveryCH/index.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",62.Discovery Bangla
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",EKATTOR TV HD [BD]
+PT1BTzFOVGJ1STNiMEYyYWw5aWQweDJZdE4yTHdnRE00b2pOd0VqTDJNVE11SURNeDR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",63.Discovery Hindi
-https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",64.Discovery Tamil
-https://itvorigin.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",65.Discovery HD
-https://itvorigin.multitvsolution.com/idvo/discoveryhd.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",66.Discovery HD Russia
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU" group-title="Documentary",67.Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",68.Discovery Science Hindi
-https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
-#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",69.Discovery Science English
-https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Documentary",70.Discovery Turbo
-https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet
-https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="New",71.Animal Planet HD
-https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",71.Animal Planet Spanish
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",71.Nat Geo
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary",71.Nat Geo UAE
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/3jBRVrj.png",71.National Geographic Wild HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Documentary",73.BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Documentary",74.BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.favpng.com/16/1/13/logo-outdoor-channel-high-definition-television-television-channel-png-favpng-JeAYSamzRX9xEcsFTdp6PFu14.jpg" group-title="Documentary",75.Outdoor HD
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",75.Travel Channel
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",JAMUNA TV
+PT1BTzFOVGJ1RW1iMTFXWXE5aWQweDJZdE4yTHdnRE00b2pOd0VqTDJNVE11SURNeDR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Documentary",75.Travel XP
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",NEWS 24 HD
+PT1BTzFOVGJ1UWpNemRYWnU5aWQweDJZdE4yTHdnRE00b2pOd0VqTDJNVE11SURNeDR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",75.TLC
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",DBC NEWS HD
+PWdUZHowbUx6ZFhadU5tWWs5aWQweDJZdE4yTHdnRE00b2pOd0VqTDJNVE11SURNeDR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="New",75.TLC Hindi
-https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",75.TLC HD
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png" group-title="Documentary",75.AFN
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Documentary",75.History TV English
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",COLORS
+PWdUZHowbUx6SjNiczkyWWYxMlkwOWlkMHgyWXROMkx3Z0RNNG9qTndFakwyTVRNdUlETXg0eU13RXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentary",75.Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" group-title="Documentary",75.Da Vinci HD
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://www.tillerdesign.com/wp-content/uploads/2019/07/popular-science-magazine_610_407_80.jpg" group-title="Documentary",75.Popular Science
-https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="Documentary",75.RT Documentary
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L._AC_UL600_SR600,600_.png" group-title="Documentary",75.Akc TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary",75.Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",Sony Aath
+NFUzTXQ1Q2RoRldldTkyY2YxMlkwOWlkMHgyWXROMkx3Z0RNNG9qTndFakwyTVRNdUlETXg0eU13RXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",CHANNEL 9 HD
+NFUzTXQ1U09zVm1idUZHYWo5aWQweDJZdE4yTHdnRE00b2pOd0VqTDJNVE11SURNeDR5TXdFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",Gtv
+PT1BTzFOVGJ1Z0dkZlpIZG45aWQweDJZdE4yTHdnRE00b2pOd0VqTDJNVE11SURNeDR5TXdFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",Independent TV
+NFUzTXQ1Q2R1VkdadVZHY2xSbWJwOWlkMHgyWXROMkx3Z0RNNG9qTndFakwyTVRNdUlETXg0eU13RXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",BBC World News
+PWdUZHowbUxqSm1ZZjEyWTA5aWQweDJZdE4yTHdnRE00b2pOd0VqTDJNVE11SURNeDR5TXdFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",Zee Bangla
+PT1BTzFOVGJ1MDJZaHgyWnVGbVlsVm1lZjEyWTA5aWQweDJZdE4yTHdnRE00b2pOd0VqTDJNVE11SURNeDR5TXdFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",Colors Bangla
+PT1BTzFOVGJ1MDJZaHgyWnVGbVl6SjNiczkyWWYxMlkwOWlkMHgyWXROMkx3Z0RNNG9qTndFakwyTVRNdUlETXg0eU13RXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",Sony
+PT1BTzFOVGJ1MDJZa2hXZXU5MmNmMTJZMDlpZDB4Mll0TjJMd2dETTRvak53RWpMMk1UTXVJRE14NHlNd0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",Live Sports
+PWdUZHowbUx6Um5jdkIzY2xaWGFzOWlkMHgyWXROMkx3Z0RNNG9qTndFakwyTVRNdUlETXg0eU13RXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",Star Sports 1
+PT1BTzFOVGJ1SVRMelJuY3ZCM2NsWlhhczlpZDB4Mll0TjJMd2dETTRvak53RWpMMk1UTXVJRE14NHlNd0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="ext" group-title="* All 03122020",Movie Bangla
+NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdUl6YXVsR2JoeDJadUZtWWxsbWR2MTJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="* All 03122020",ATN Bangla
+PWdUZHowbUxoeDJadUZtWXVSWFl2a0didTAyWTBKM2JvTm5MMk1UTTU5R1pwSkhheTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="* All 03122020",Banglavision
+PT1BTzFOVGJ1WUhkdTlXYXpsbWRoeDJadUZtWXZrR2J1MDJZMEozYm9ObkwyTVRNNTlHWnBKSGF5OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="* All 03122020",Boishakhi
+PT1BTzFOVGJ1WUhkcGgyYWhoMmNwOW1ZdmtHYnUwMlkwSjNib05uTDJNVE01OUdacEpIYXk5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="* All 03122020",CHANNEL 24
+PWdUZHowbUwwSURibDVtYmhoMll2a0didTAyWTBKM2JvTm5MMk1UTTU5R1pwSkhheTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="* All 03122020",Channel I
+PT1BTzFOVGJ1a0dibDVtYmhoMll2a0didTAyWTBKM2JvTm5MMk1UTTU5R1pwSkhheTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="* All 03122020",RTV
+PWdUZHowbUwyUm5jdmtHYnUwMlkwSjNib05uTDJNVE01OUdacEpIYXk5eUw2TUhjMFJIYQ==
