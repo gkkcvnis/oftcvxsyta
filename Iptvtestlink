@@ -1,11 +1,18 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors bangla
-http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8?token=76e4942561fffcb5ab366e81cd35a85786007613-2b2effeb8a8855d9ce44dfc6dbf3e913-1617218987-1617208187
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=2106fe793d5f2973194af71cd469a8804b33ab83-463f25dd19775c6bf5c2d13e3bd72a41-1617221523-1617210723
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zee cinema
+http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=090300af3f65dee81cb5a77c17afcd493d94c534-8a2514fcf1cae184afde1bbc7082f534-1617220157-1617209357
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" beflix
 http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8?token=76e4942561fffcb5ab366e81cd35a85786007613-2b2effeb8a8855d9ce44dfc6dbf3e913-1617218987-1617208187
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony aath
-http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8?token=76e4942561fffcb5ab366e81cd35a85786007613-2b2effeb8a8855d9ce44dfc6dbf3e913-1617218987-1617208187
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha
-http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8?token=76e4942561fffcb5ab366e81cd35a85786007613-2b2effeb8a8855d9ce44dfc6dbf3e913-1617218987-1617208187
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zee bangla
-http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8?token=76e4942561fffcb5ab366e81cd35a85786007613-2b2effeb8a8855d9ce44dfc6dbf3e913-1617218987-1617208187
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" asian tv
+http://stream.amrbd.com:8082/AsianTV/tracks-v1a1/mono.m3u8?token=75e215e64817d4f07bc564e1ce485ce34097ce8b-5aebba7edfc87e9ffc4edd03f83684d8-1617219786-1617208986
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="
+http://stream.amrbd.com:8082/Star_Plus/tracks-v1a1/mono.m3u8?token=7ea874766523b29950511ea1d5c2f8e5d48a85e6-f2de2f314f6e0e4c5fd114e72843e233-1617218896-1617208096
