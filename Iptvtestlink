@@ -1,14 +1,16 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)"
 https://edge4.bioscopelive.com/hls/anonymous/UjkS-ZcythjOAgDhWCK4FQ/1617202300/zee_bangla_mid/index.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)"
 https://edge4.bioscopelive.com/hls/anonymous/OR5A3J22MXUpN3eENI3Qug/1617203101/colors_hi/index.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)"
 https://edge4.bioscopelive.com/hls/anonymous/1GyOKFh1CmvVEFCsGkYYJg/1617203161/colors_bangla_hi/index.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)"
 https://edge4.bioscopelive.com/hls/anonymous/cJBZ6ddRGBPYirZDYmYsUA/1617203209/sangsad_tv_mid/index.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)"
 http://stream.amrbd.com:8082/Bein/tracks-v1a1/mono.m3u8?token=1f3c1b50fae93bcdf8a7ac771a7e6997b398ceea-6a6401178760e4e201e1db67b473340c-1617210178-1617199378
+#EXTINF:-1 tvg-id="(no tvg-id)"
 http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=8b57a5c2f76cfa559420dc8b5df55dcd25816c5c-e31035a7501bda6a74a7e293497be099-1617210155-1617199355
-
+#EXTINF:-1 tvg-id="(no tvg-id)"
 http://stream.amrbd.com:8082/SangeetBangla/tracks-v1a1/mono.m3u8?token=49c31e97ab88bc69ed7d69c7a3fbaa0af15ce3be-dcb3f242344f685d524bef1e2cfc1ae3-1617210260-1617199460
