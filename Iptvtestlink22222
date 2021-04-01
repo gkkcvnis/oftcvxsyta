@@ -27,3 +27,5 @@ http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=9bea7189747
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="deepto
 http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8?token=7e59da799c716f543756e1a4397f99ac7ee59222-be3db8b63b662a1cffd3d956ab2a91b5-1617304160-1617293360
+#EXTINF:-1 tvg-id="(no tvg-id)"
+http://195.154.108.53:5432/xrdctfv/zeeb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjEgNzowNTo0MSBQTSZoYXNoX3ZhbHVlPVM2MmZyL3NkMVBUWXZJU01zOXF1TEE9PSZ2YWxpZG1pbnV0ZXM9Mg==http://195.154.108.53:5432/xrdctfv/zeeb/playlist.m3u8
