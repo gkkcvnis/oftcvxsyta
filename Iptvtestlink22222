@@ -1,0 +1,29 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zcine
+http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=710a2931f86f1b1974db5091a64e90ba88406c9e-773efca572b181719f54153650bbcc6a-1617302099-1617291299
+tsp
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=423896f574aa0709ccc23e075a0474606146c4c9-65a92a5d154a2c27abb7437e1d2824c2-1617302732-1617291932
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="coloban
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=b547bccfe3d2b3b9198ac03c295f7a4e74f89c33-b85a2ece959669e7d85fbee362b4e286-1617302847-1617292047
+
+zeebancina
+http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=63bb9581a4497cf19d59f7f1e3bc62b3eaabe862-59851c924462efbfc7bf00568a95077e-1617303018-1617292218
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony ath
+http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=f04fdaaaade809270d583b717c9d6f17d6a5f565-b261a3676276b93a1a42619366201b70-1617303103-1617292303
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="jalsha mo
+http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=8180f9c5dca3b71457b8e064905436da4d0b14e4-056073df38c0abc19802ecbfb75bd861-1617303366-1617292566
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zebangla
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=9bea71897472126c00e8cd43c655aa5bec027816-4a2b1bf0703d3520f9aa6fb7df092a7b-1617303357-1617292557
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="deepto
+http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8?token=7e59da799c716f543756e1a4397f99ac7ee59222-be3db8b63b662a1cffd3d956ab2a91b5-1617304160-1617293360
